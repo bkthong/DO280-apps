@@ -1,1 +1,1 @@
-Server IP: <?php echo $_SERVER['SERVER_ADDR']; ?> 
+POD IP: <?php echo $_SERVER['SERVER_ADDR']; ?> 
